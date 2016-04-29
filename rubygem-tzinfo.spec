@@ -4,7 +4,7 @@
 #
 Name     : rubygem-tzinfo
 Version  : 1.2.2
-Release  : 9
+Release  : 10
 URL      : https://rubygems.org/downloads/tzinfo-1.2.2.gem
 Source0  : https://rubygems.org/downloads/tzinfo-1.2.2.gem
 Summary  : No detailed summary available
