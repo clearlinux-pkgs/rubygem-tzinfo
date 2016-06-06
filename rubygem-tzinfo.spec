@@ -4,7 +4,7 @@
 #
 Name     : rubygem-tzinfo
 Version  : 1.2.2
-Release  : 10
+Release  : 11
 URL      : https://rubygems.org/downloads/tzinfo-1.2.2.gem
 Source0  : https://rubygems.org/downloads/tzinfo-1.2.2.gem
 Summary  : No detailed summary available
@@ -156,7 +156,9 @@ pushd %{buildroot}%{gem_dir}/gems/tzinfo-1.2.2 &&  rake --trace test TESTOPTS="-
 /usr/lib64/ruby/gems/2.3.0/gems/tzinfo-1.2.2/test/zoneinfo/Europe/Paris
 /usr/lib64/ruby/gems/2.3.0/gems/tzinfo-1.2.2/test/zoneinfo/Europe/Prague
 /usr/lib64/ruby/gems/2.3.0/gems/tzinfo-1.2.2/test/zoneinfo/Factory
+/usr/lib64/ruby/gems/2.3.0/gems/tzinfo-1.2.2/test/zoneinfo/UTC
 /usr/lib64/ruby/gems/2.3.0/gems/tzinfo-1.2.2/test/zoneinfo/iso3166.tab
+/usr/lib64/ruby/gems/2.3.0/gems/tzinfo-1.2.2/test/zoneinfo/localtime
 /usr/lib64/ruby/gems/2.3.0/gems/tzinfo-1.2.2/test/zoneinfo/posix/Europe/London
 /usr/lib64/ruby/gems/2.3.0/gems/tzinfo-1.2.2/test/zoneinfo/posixrules
 /usr/lib64/ruby/gems/2.3.0/gems/tzinfo-1.2.2/test/zoneinfo/right/Europe/London
