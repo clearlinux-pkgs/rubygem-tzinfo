@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-06-06 16:51:23.306744
+# {'>=0', 'development', '~>1.1', '>=0.3.37'}
+watchurl=https://rubygems.org/gems/tzinfo/versions/([0-1]\.[0-9]{1,2}(?:\.[0-9]{1,2})*)
